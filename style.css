@@ -1,0 +1,46 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'futura', sans-serif;
+  background:#000;
+  
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  clear: both;
+}
+
+
+div {
+  padding-top:15px;
+/*   border:1px solid #fff;
+  height:200px; */
+  width:600px;
+  bottom:-1;
+  float:none;
+  display: block;
+  margin: 0 auto;
+  color:white;
+  clear: both;
+/*   text-align:center; */
+}
+
+div h2{
+  
+  width:140px;
+  padding-left:50px;
+  float:left;
+  padding-right:5px;
+}
+
+p {
+border-left:2px solid white;
+  padding-left:20px;
+  padding-top:5px;
+  padding-bottom:5px;
+  color:grey;
+  text-align:left;
+  width:70%;
+  float:left;
+}
